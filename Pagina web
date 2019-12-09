@@ -1,0 +1,24 @@
+<html>
+<head>
+<title> Curriculum Vitae </title>
+</head>
+<h1><b>curriculum vitae</b></h1>
+<img src="222.jpg"  height="25%" width="10%"></br>
+
+<p>
+<h3><b>DATOS PERSONALES:</b></h3>
+<p>
+<b>NOMBRE Y APELLIDO:</b>  Narváez Bolaños Miguel Angel </br>
+<b>EDAD:</b>  25 años </br>
+<b>FECHA DE NACIMIENTO: </b> 06/12/1994 </br>
+<b>DIRECCION:</b>  La Victoria (Ibarra - Ecuador) </br>
+<b>TELEFONO CELULAR:</b>  0998452666 </br>
+<b>CORREO ELECTRONICO:</b>  Litox666@hotmail.com </br>
+<b>CI:</b>  0401783196 </br>
+<p>
+<A HREF="AC.html"> ESTUDIOS REALIZADOS </A> </br>
+<p>
+<A HREF="LB.html"> EXPERIENCIA LABORAL </A>
+</p>
+</body>
+</html>
